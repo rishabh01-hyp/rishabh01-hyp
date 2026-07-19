@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rishabh</h1>
 <h3 align="center">Java • Backend • Cybersecurity • Competitive Programming</h3>
 
-- 🔭 Currently building **backend projects** and sharpening my **DSA** skills.
-- 🌱 Currently learning **Backend Development** and **Cloud Computing**.
-- 📫 Reach me at **rishabh040407@gmail.com**
+-😁 Currently building **Backend projects** and sharpening my **DSA** skills.
+-✍️ Currently learning **Backend Development** and **Cloud Computing**.
+-🥱 Reach me at **rishabh040407@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-
 <p align="left">
 <a href="https://linkedin.com/in/rishabh-41811b323" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/>
@@ -23,6 +22,8 @@
 
 <h3 align="left">Languages & Tools</h3>
 
+
+          
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
@@ -35,13 +36,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>   
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rishabh01-hyp&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh01-hyp&layout=compact&theme=github_dark&hide_border=true" height="170"/>
-</p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh01-hyp&theme=github-dark&hide_border=true"/>
