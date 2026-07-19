@@ -1,16 +1,20 @@
 ## Hi there 👋
+# Hey, I'm Rishabh 👋
 
-<!--
-**rishabh01-hyp/rishabh01-hyp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Student
+☁️ Backend Developer
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently
+- Solving LeetCode daily
+- Learning Java
+- Building backend projects
+- Building logic
+## Tech
+Java
+Python
+JavaScript
+React
+FastAPI
+MongoDB
+Git
+Linux
