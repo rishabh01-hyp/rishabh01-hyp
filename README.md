@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh</h1>
-<h3 align="center">Java • Backend • Cybersecurity • Competitive Programming</h3>
+<h3 align="center">Java • Backend • DSA • Competitive Programming</h3>
 
 -😁 Currently building **Backend projects** and sharpening my **DSA** skills.
 -✍️ Currently learning **Backend Development** and **Cloud Computing**.
